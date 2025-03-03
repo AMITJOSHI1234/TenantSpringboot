@@ -1,0 +1,10 @@
+com.yash.tenantmanagement
+com.yash.tenantmanagement.config
+com.yash.tenantmanagement.controller
+com.yash.tenantmanagement.dao
+com.yash.tenantmanagement.domain
+com.yash.tenantmanagement.dto
+com.yash.tenantmanagement.Exception
+com.yash.tenantmanagement.jwtconfig
+com.yash.tenantmanagement.service
+com.yash.tenantmanagement.utility
